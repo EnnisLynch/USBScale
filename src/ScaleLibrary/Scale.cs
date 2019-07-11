@@ -5,6 +5,7 @@
 	using System.Threading;
 	using System.Threading.Tasks;
 	using HidLibrary;
+	 //This is a test
 	/// <summary>
 	/// Will read data from the scale
 	/// </summary>
